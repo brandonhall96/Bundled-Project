@@ -2,7 +2,7 @@
 
 ## How to start application
 ```
-docker compose up 
+docker compose up in terminal
 
 navigate to http://localhost:3000 in your browser
 ```
